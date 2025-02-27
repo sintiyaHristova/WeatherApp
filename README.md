@@ -33,13 +33,13 @@ The project is a web application for checking meteorological conditions for a gi
 - The current meteorological conditions for the city will be displayed, including temperature, humidity, wind speed, and cloudiness, as well as a weather forecast for the upcoming days;
 
 ## Live Demo: [https://weather-app-sintiya.vercel.app/](https://weatherapp-sintiya.vercel.app/)
-
-
-![01](https://github.com/user-attachments/assets/9a499d10-1708-4cc7-854e-6abb29e2eb71)
-![02](https://github.com/user-attachments/assets/8d50f367-d162-4470-aab5-7b297b472b8f)
-![03](https://github.com/user-attachments/assets/eb6fdf8b-a5b4-4a23-92b1-c61111124478)
+![01](https://github.com/user-attachments/assets/b3a20da3-dab7-4220-9d88-322ea6120aff)
+![02](https://github.com/user-attachments/assets/da60119d-a61b-4ec7-b03b-c2ef11477217)
+![03](https://github.com/user-attachments/assets/1acc7172-1754-44d7-a952-c6e8996223cf)
 
 ## Responsive design for mobile devices:
-![mobile version](https://github.com/user-attachments/assets/bafd1c30-32de-4eae-bfb3-5005dd491b0e)
-![mobile version2](https://github.com/user-attachments/assets/89c2b172-480c-446f-af50-196650a5f29b)
-![mobile version3](https://github.com/user-attachments/assets/6bee85b1-9744-419e-99ab-e72db8dd2681)
+![04](https://github.com/user-attachments/assets/15c922a9-2ef2-45a2-8522-d323200c8308)
+![06](https://github.com/user-attachments/assets/d22ba67a-10e9-449b-8bd4-f2fd695959b7)
+![05](https://github.com/user-attachments/assets/0dcc56d8-2c5f-4789-b37f-e6fb087a661e)
+
+
