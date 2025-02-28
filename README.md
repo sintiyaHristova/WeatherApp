@@ -32,7 +32,7 @@ The project is a web application for checking meteorological conditions for a gi
 - Click the search button or press Enter;
 - The current meteorological conditions for the city will be displayed, including temperature, humidity, wind speed, and cloudiness, as well as a weather forecast for the upcoming days;
 
-## Live Demo: weatherapp-sintiya.vercel.app 
+## Live Demo: https://weatherapp-sintiya.vercel.app 
 
 ![01](https://github.com/user-attachments/assets/b3a20da3-dab7-4220-9d88-322ea6120aff)
 ![02](https://github.com/user-attachments/assets/da60119d-a61b-4ec7-b03b-c2ef11477217)
