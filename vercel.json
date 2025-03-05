@@ -1,6 +1,9 @@
 {
-  "rewrites": [
-    { "source": "/weather", "destination": "/api/weather" },
-    { "source": "/forecast", "destination": "/api/forecast" }
+  "builds": [
+    { "src": "server.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/weather", "dest": "/server.js" },
+    { "src": "/forecast", "dest": "/server.js" }
   ]
 }
