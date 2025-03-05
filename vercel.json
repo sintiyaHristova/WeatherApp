@@ -1,6 +1,7 @@
 {
   "routes": [
-    { "src": "/weather", "dest": "/server.js" },
-    { "src": "/forecast", "dest": "/server.js" }
+    { "src": "/weather", "dest": "/api/server.js" },
+    { "src": "/forecast", "dest": "/api/server.js" }
   ]
 }
+
