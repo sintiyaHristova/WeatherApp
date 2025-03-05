@@ -34,7 +34,7 @@ cityInput.addEventListener("keydown", (event) => {
 });
 
 async function getFetchData(endPoint, city) {
-  const apiUrl = `http://localhost:5000/${endPoint}?city=${city}`;
+const apiUrl = `${window.location.origin}/${endPoint}?city=${city}`;
   try {
     const response = await fetch(apiUrl);
 
